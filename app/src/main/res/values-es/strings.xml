@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_name">NOMBRE</string>
+    <string name="btn_surname">APELLIDOS</string>
+    <string name="btn_Course">CURSOS</string>
+    <string name="btn_languages">LENGUAJES</string>
+    <string name="dialog_name_title">¿Cual es tu nombre?</string>
+    <string name="dialog_surname_title">¿Cuales son tus apellidos?</string>
+    <string name="dialog_course_title">¿Cual es tu curso?</string>
+    <string name="dialog_languages_title">¿Que lenguajes conoces?</string>
+    <string name="dialog_neutral">Cancelar</string>
+    <string name="dialog_negative">No</string>
+    <string name="dialog_positive">Si</string>
+    <string name="btn_so">SO</string>
+    <string name="btn_name_hint">NOMBRE</string>
+    <string name="btn_surname_hint">APELLIDOS</string>
+    <string name="dialog_os_title">¿Cual es tu SO favorito?</string>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">practica_dialog3</string>
+    <string name="btn_name">NAME</string>
+    <string name="btn_name_hint">NAME</string>
+    <string name="btn_surname">SURNAME</string>
+    <string name="btn_surname_hint">SURNAME</string>
+    <string name="btn_Course">COURSE</string>
+    <string name="btn_languages">LANGUAGES</string>
+    <string name="btn_so">OS</string>
+
+    <string name="dialog_name_title">What is your name?</string>
+    <string name="dialog_surname_title">What is your surname?</string>
+    <string name="dialog_course_title">What is your course?</string>
+    <string name="dialog_languages_title">What languages you know?</string>
+    <string name="dialog_os_title">What is your favourite OS?</string>
+    <string name="dialog_neutral">Cancel</string>
+    <string name="dialog_negative">No</string>
+    <string name="dialog_positive">Yes</string>
+
+    <string-array name="arr_languages">
+        <item>Java</item>
+        <item>C#</item>
+        <item>JavaScript</item>
+        <item>Python</item>
+        <item>Godot</item>
+    </string-array>
+
+    <string-array name="arr_course">
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>ASIR</item>
+    </string-array>
+
+    <string-array name="arr_os">
+        <item>Android</item>
+        <item>IOS</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layouts_padding">20dp</dimen>
+    <dimen name="buttons">1dp</dimen>
+    <dimen name="textSize">18sp</dimen>
+    <dimen name="margin_lblAndBtn">10dp</dimen>
+    <dimen name="corner_radius">0dp</dimen>
+    <dimen name="labels">30dp</dimen>
+</resources>
